@@ -22,38 +22,37 @@ Voici les captures d'écran :
 
 Page d'inscription :
 
-![]()
+![react-typescript-authentication-example-signup](src/assets/admin/img/react-typescript-authentication-example-signup.png)
 
-![]()
+![react-typescript-authentication-example-success-register](src/assets/admin/img/react-typescript-authentication-example-successfully.png)
 
 Prise en charge de la validation des formulaires :
 
-![]()
+![react-typescript-authentication-example-form-validation](src/assets/admin/img/react-typescript-authentication-example-form-validation.PNG)
 
 Page de connexion: :
 
-![]()
+![react-typescript-authentication-example-login](src/assets/admin/img/react-typescript-authentication-example-login.PNG)
 
 Page de profil (pour une connexion réussie) :
 
-![]()
+![react-typescript-authentication-example-user-profile-page](src/assets/admin/img/react-typescript-authentication-example-user-profile-page.PNG)
 
 
 Pour la connexion au compte Modérateur, la barre de navigation changera selon les autorités :
 
-![]()
-![]()
-![]()
+![react-typescript-authentication-example-mod-profile-page](src/assets/admin/img/react-typescript-authentication-example-mod-profile.PNG)
+![react-typescript-authentication-example-mod-content](src/assets/admin/img/react-typescript-authentication-example-mod-content.png)
+![react-typescript-authentication-example-mod-content](src/assets/admin/img/react-typescript-authentication-example-user-content.PNG)
 
 Vérifiez le stockage local du navigateur :
 
-![]()
+![react-typescript-authentication-example-local-storage](src/assets/admin/img/react-typescript-authentication-example-local-storage.png)
 
 
 Essayez d’accéder à une ressource non autorisée (page d’administration) :
 
-![]()
-
+![react-typescript-authentication-example-local-storage](src/assets/admin/img/react-typescript-authentication-example-admin-required.PNG)
 
 ## Inscription des utilisateurs et flux de connexion des utilisateurs
 
@@ -102,7 +101,7 @@ Nous avons utiliser ces modules :
 
 Voici la structure des dossiers et des fichiers pour cette application React Typescript Authenticaion :
 
-![]()
+![react-typescript-authentication-structure-projet](src/assets/admin/img/react-typescript-authentication-structure-projet.png)
 
 
 Avec l'explication du diagramme ci-dessus, vous pouvez facilement comprendre la structure du projet.
